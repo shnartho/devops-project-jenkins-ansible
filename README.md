@@ -1,2 +1,1 @@
-# devops-project-jenkins-ansible
-Devops project - Jenkins CI/CD Pipeline - Ansible, Docker, Github Webhooks on AWS
+<h4>An Agile DevOps Project: Building a Jenkins CI/CD Pipeline with Ansible, Docker, GitHub Webhooks, and AWS✌️</h4>
