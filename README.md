@@ -1,6 +1,7 @@
 ## An Agile DevOps Project: Building a Jenkins CI/CD Pipeline with Ansible, Docker, GitHub Webhooks, and AWS✌️
 
 ### 🔰 Overview 
+![](./images/000overview.png)
 #### 🟢 The website is running from docker container. Updating the code repository will automatically update the docker image and container and the changes will be visible immediately.
 ![](./images/111before.png)
 #### 🟢 Both jenkins, ansible server and docker server in running state
